@@ -1,0 +1,23 @@
+ Dodge Game
+
+Welcome to Space Chacho, an exciting space-themed dodge game built with Python and Pygame. In this game, 
+you control a spaceship and navigate through a cosmic obstacle course, 
+dodging falling stars to survive as long as possible.
+
+Features:
+
+Intuitive controls: Use the arrow keys to move your spaceship left and right.
+Dynamic gameplay: Stars fall from the top of the screen, challenging your reflexes and agility.
+Time tracking: The game keeps track of how long you've survived, adding an element of competition.
+How to Play:
+
+Use the left and right arrow keys to maneuver your spaceship.
+Dodge falling stars to stay alive.
+Compete against yourself and others to achieve the highest survival time.
+Installation:
+
+Clone the repository: git clone [repository URL]
+Install Pygame: pip install pygame
+Run the game: python main.py
+Have fun exploring the vastness of space while avoiding obstacles in Space Chacho!
+
